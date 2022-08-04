@@ -4,7 +4,7 @@ Projects, repositories and links:
 * BKBTL emulator: [**bkbtl**](https://github.com/nzeemin/bkbtl) • [**bkbtl-qt**](https://github.com/nzeemin/bkbtl-qt) • [bkbtl-testbench](https://github.com/nzeemin/bkbtl-testbench) • [bkbtl-doc](https://github.com/nzeemin/bkbtl-doc) • [wiki](https://github.com/nzeemin/bkbtl-doc/wiki)
 * MS0515BTL emulator: [**ms0515btl**](https://github.com/nzeemin/ms0515btl)
 * NemigaBTL emulator: [**nemigabtl** WIP 🚧](https://github.com/nzeemin/nemigabtl) • [nemigabtl-testbench](https://github.com/nzeemin/nemigabtl-testbench)
-* Vector06c related: [Desolate port](https://github.com/nzeemin/vector06c-desolate) • [Asteroids port WIP 🚧](https://github.com/nzeemin/vector06c-asteroids) • [Dangerous Rick port WIP 🚧](https://github.com/nzeemin/vector06c-dangerick) • [Highway Encounter WIP 🚧](nzeemin/vector06c-highwayencounter)
+* Vector06c related: [Desolate port](https://github.com/nzeemin/vector06c-desolate) • [Asteroids port WIP 🚧](https://github.com/nzeemin/vector06c-asteroids) • [Dangerous Rick port WIP 🚧](https://github.com/nzeemin/vector06c-dangerick) • [Highway Encounter WIP 🚧](https://nzeemin/vector06c-highwayencounter)
 * ZX Spectrum related: [**ZX Spectrum Desolate port**](https://github.com/nzeemin/spectrum-desolate) • [SkoolKit game reverses](https://github.com/nzeemin/skoolkit-game-revs) • [Scuba Dive reverse](https://github.com/nzeemin/spectrum-scubadive-rev)
 * Other: [intellekt02](https://github.com/nzeemin/intellekt02/) • [elektronika-im01 WIP 🚧](https://github.com/nzeemin/elektronika-im01) • [pclink11](https://github.com/nzeemin/pclink11/)
 
